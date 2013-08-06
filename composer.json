@@ -1,9 +1,9 @@
 {
-	"name": "sunnysideup/calendar",
+	"name": "sunnysideup/membermanagement",
 	"type": "silverstripe-module",
-	"description": "basic calendar for silverstripe",
+	"description": "This module adds some database-related tricks to your silverstripe application. It * creates a group for all members who are ghost members, because they do not belong to any group.",
 	"homepage": "http://www.silverstripe-webdevelopment.com",
-	"keywords": ["calendar", "silverstripe"],
+	"keywords": ["members", "users", "cleanup", "ghost", "silverstripe"],
 	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
 	"authors":[
 		{
