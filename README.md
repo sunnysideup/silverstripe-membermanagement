@@ -1,7 +1,5 @@
-###############################################
 Memmber Management
-Pre 0.1 proof of concept
-###############################################
+================================================================================
 
 This module adds some database-related tricks
 to your silverstripe application. It
