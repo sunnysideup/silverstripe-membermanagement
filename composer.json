@@ -1,22 +1,26 @@
 {
-	"name": "sunnysideup/membermanagement",
-	"type": "silverstripe-module",
-	"description": "This module adds some database-related tricks to your silverstripe application. It * creates a group for all members who are ghost members, because they do not belong to any group.",
-	"homepage": "http://www.silverstripe-webdevelopment.com",
-	"keywords": ["members", "users", "cleanup", "ghost", "silverstripe"],
-	"license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
-	"authors":[
-		{
-			"name": "Nicolaas Francken",
-			"homepage": "https://github.com/sunnysideup",
-			"email" : "modules@sunnysideup.co.nz",
-			"role" : "lead developer"
-		}
-	],
-	"require":{
-		"silverstripe/framework": "~2.4"
-	},
-	"extra": {
-		"installer-name": "membermanagement"
-	}	
+    "name": "sunnysideup/membermanagement",
+    "type": "silverstripe-module",
+    "description": "This module adds some database-related tricks to your silverstripe application. It * creates a group for all members who are ghost members, because they do not belong to any group.",
+    "keywords": [
+        "members",
+        "users",
+        "cleanup",
+        "ghost",
+        "silverstripe"
+    ],
+    "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
+    "authors": [
+        {
+            "name": "Nicolaas Francken",
+            "email": "modules@sunnysideup.co.nz",
+            "role": "lead developer"
+        }
+    ],
+    "require": {
+        "silverstripe/framework": "~2.4"
+    },
+    "extra": {
+        "installer-name": "membermanagement"
+    }
 }
