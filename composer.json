@@ -3,11 +3,13 @@
     "type": "silverstripe-module",
     "description": "This module adds some database-related tricks to your silverstripe application. It * creates a group for all members who are ghost members, because they do not belong to any group.",
     "keywords": [
+        "Silverstripe-CMS",
+        "CMS",
+        "Silverstripe",
         "members",
         "users",
         "cleanup",
-        "ghost",
-        "silverstripe"
+        "ghost"
     ],
     "license": "Sunny Side Up (BSD-3-Clause and CUSTOM)",
     "authors": [
@@ -18,7 +20,8 @@
         }
     ],
     "require": {
-        "silverstripe/framework": "~2.4"
+        "silverstripe/framework": "~2.4",
+        "silverstripe/cms": "~2.4"
     },
     "extra": {
         "installer-name": "membermanagement"
